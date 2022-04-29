@@ -1,5 +1,5 @@
 ## Write a R program to check whether a number is even or odd(input number)
-eve_odd.r
+https://github.com/gaurang98671/r_code/blob/main/eve_odd.r
 
 ## Write a R program to print Fibonacci series
 fibo.r
