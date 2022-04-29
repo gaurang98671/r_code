@@ -40,5 +40,37 @@ https://github.com/gaurang98671/r_code/blob/main/min_of_three.r
 ## Write a R program to install util package and convert numeric to roman number.
 
 
-## 
+## Write a R program to plot a bar graph on any dataset of your own.
+
+## Write a R program to plot a scatter plot on any dataset of your own.
+
+
+## Write a R program to plot box plot on any dataset of your own.
+
+
+## Write a R program to plot a histogram on any dataset of your own.
+
+
+## Write a R program to install ggplot2 package and plot a graph on any dataset of your own
+https://github.com/gaurang98671/r_code/blob/main/ggplot_graph.r
+
+
+## Write a R program to demonstrate linear regression.
+https://github.com/gaurang98671/r_code/blob/main/linear_regression.r
+
+## Write a R program to demonstrate multiple regression
+
+
+## Write a R program to use aggregate function by categorizing a tabular data
+https://github.com/gaurang98671/r_code/blob/main/aggregate_tabular_data.r
+
+## Write a R program to build tables with aggregate.
+
+
+## Write a R program to demonstrate correlation.
+
+
+## Write a R program to demonstrate Tabular data and analysis of Categorical data
+
+
 
