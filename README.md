@@ -2,25 +2,25 @@
 https://github.com/gaurang98671/r_code/blob/main/eve_odd.r
 
 ## Write a R program to print Fibonacci series
-fibo.r
+https://github.com/gaurang98671/r_code/blob/main/fibo.r
 
 ## Write a R program to check whether a number is prime or not(input number)
-prime.r
+https://github.com/gaurang98671/r_code/blob/main/prime.r
 
 ## Write a R program for simple calculator using switch case.
-calc.r
+https://github.com/gaurang98671/r_code/blob/main/calc.r
 
 ## Write a R program to print reverse of a number(input number)
-rev_num.r
+https://github.com/gaurang98671/r_code/blob/main/rev_num.r
 
 ## Write a R program to demonstrate while and repeat loop
-while_repeat.r
+https://github.com/gaurang98671/r_code/blob/main/while_repeat.r
 
 ## Write a R program to find largest of three numbers(input number)
-max_of_three.r
+https://github.com/gaurang98671/r_code/blob/main/max_of_three.r
 
 ## Write a R program to find smallest of three numbers(input number)
-min_of_three.r
+https://github.com/gaurang98671/r_code/blob/main/min_of_three.r
 
 ## Write a R program to demonstrate list,array and dataframe data structure.
 
