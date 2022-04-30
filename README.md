@@ -23,15 +23,18 @@ https://github.com/gaurang98671/r_code/blob/main/max_of_three.r
 https://github.com/gaurang98671/r_code/blob/main/min_of_three.r
 
 ## Write a R program to demonstrate list,array and dataframe data structure.
-
+https://github.com/gaurang98671/r_code/blob/main/arr_lis_df.r
 
 ## Write a R program to demonstrate vectors,matrices and list
+https://github.com/gaurang98671/r_code/blob/main/vector_mat_lis.r
 
 
 ## Write a R program to demonstrate Factors,Arrays and list.
+https://github.com/gaurang98671/r_code/blob/main/fac.r
 
 
 ## Write a R program to find sum of 10 numbers using arrays.
+https://github.com/gaurang98671/r_code/blob/main/sum_of_num_using_arr.r
 
 
 ##  Write a R program to apply EDA on any dataset
