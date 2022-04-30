@@ -11,7 +11,12 @@ while(n < 5){
 #the loop and use the break statement to exit the loop.
 #Failing to do so will result into an infinite loop.
 
-
+i = 1
 repeat {
+
   print("Some statement")
+  i = i + 1
+  if(i == 6){
+    break
+  }
 }
