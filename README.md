@@ -95,3 +95,4 @@ https://raw.githubusercontent.com/gaurang98671/r_code/main/correlation.R
 
 
 ## Write a R program to demonstrate Tabular data and analysis of Categorical data
+https://raw.githubusercontent.com/gaurang98671/r_code/main/tabular_categorical.R
