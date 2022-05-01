@@ -41,12 +41,14 @@ https://github.com/gaurang98671/r_code/blob/main/sum_of_num_using_arr.r
 
 
 ## Write a R program to install util package and convert numeric to roman number.
+https://github.com/gaurang98671/r_code/blob/main/numeric_to_roman.r
 
 
 ## Write a R program to plot a bar graph on any dataset of your own.
 https://github.com/gaurang98671/r_code/blob/main/bar_graph.r
 
 ## Write a R program to plot a scatter plot on any dataset of your own.
+https://github.com/gaurang98671/r_code/blob/main/scatter_plot.r
 
 
 ## Write a R program to plot box plot on any dataset of your own.
