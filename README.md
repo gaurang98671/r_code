@@ -44,12 +44,13 @@ https://github.com/gaurang98671/r_code/blob/main/sum_of_num_using_arr.r
 
 
 ## Write a R program to plot a bar graph on any dataset of your own.
+https://github.com/gaurang98671/r_code/blob/main/bar_graph.r
 
 ## Write a R program to plot a scatter plot on any dataset of your own.
 
 
 ## Write a R program to plot box plot on any dataset of your own.
-
+https://github.com/gaurang98671/r_code/blob/main/box_plot.r
 
 ## Write a R program to plot a histogram on any dataset of your own.
 

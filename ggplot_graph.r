@@ -1,4 +1,4 @@
-
+install.packages("ggplot2")
 library(ggplot2)
 
 print(ggplot(iris, aes(Sepal.Length, Petal.Length, colour = Species)) +
